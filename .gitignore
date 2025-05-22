@@ -1,0 +1,5 @@
+question1/node_modules/
+question2/node_modules/
+.DS_Store
+*.log
+.env
